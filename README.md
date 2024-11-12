@@ -1,8 +1,20 @@
-# React + Vite
+# Rainfall Game 🌧️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A colorful, interactive rainfall game created using **React** and CSS Grid. In this game, colored raindrops fall randomly down a grid in a visually appealing pattern. The raindrops are generated dynamically and have fading tails that add to the visual effect. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+
+Check out the live demo [here](https://gamezo-amber.vercel.app/).  
+
+![Screenshot (764)](https://github.com/user-attachments/assets/25ad98b6-bffe-4e6c-ba15-b792fa5efa3a)
+
+## Features
+
+- **Random Rainfall**: Raindrops appear randomly across columns in the grid and fall to the bottom.
+- **Colorful Animation**: Each raindrop has a unique color, and a fading tail effect is created to add depth.
+- **Responsive Design**: The grid and raindrops are responsive, ensuring the game works on various screen sizes.
+- **Reusable Components**: Components are modular, making it easy to modify and expand the application.
+
+
+
